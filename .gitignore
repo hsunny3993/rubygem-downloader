@@ -37,3 +37,4 @@
 .idea
 .vscode
 public/downloads
+config/database.yml

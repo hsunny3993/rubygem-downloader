@@ -229,6 +229,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   capybara
+  concurrent-ruby
   debug
   jbuilder
   pg (~> 1.1)
